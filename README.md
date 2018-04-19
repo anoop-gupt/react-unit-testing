@@ -3,7 +3,14 @@ This repository is meant to showcase various part of react unit testing with exa
 
 # Jest Test React - Testing React Apps with Jest and Enzyme (With Code Snippets)
 
-- Unit Testing
+-Types of Tests
+  - Unit Testing
+  - Integration Testing
+  - Functional Testing
+  - E2E Testing
+  - Test Runner v/s Test Environment v/s Test Suite
+  - Convention and Organization of tests
+- React Unit Testing
 - Snap Shot Testing
 - What is Jest
   - Basic Concepts
@@ -15,14 +22,17 @@ This repository is meant to showcase various part of react unit testing with exa
   - Mount
   - Static
 - Enviornment Setup
-- Installation
-- Run
-- Coverage
+  - Installation
+  - Run
+  - Coverage and reporting
 - How to test
   - Test Pure Components
   - Test Stateful Components
   - Test Life Cycle Methods
   - Test Redux mapStateToProps and mapDispatchToProps
+      - Test Actions
+      - Test Reducers
+      - Test Store
   - Test Custom Methods
   - Test Routes
   - Test Async/ Promises
@@ -33,4 +43,4 @@ This repository is meant to showcase various part of react unit testing with exa
 - Test Browser Object Modal - Window and Document Objects
 - Test Timers
 - Debug your test
-- Conclusion
+- Appendix
