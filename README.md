@@ -29,6 +29,7 @@ Web Url: https://anoop-gupt.github.io/react-unit-testing/
 - How to test
   - Test Pure Components
   - Test Stateful Components
+    - component.state()
   - Test Life Cycle Methods
   - Test Redux mapStateToProps and mapDispatchToProps
       - Test Actions
