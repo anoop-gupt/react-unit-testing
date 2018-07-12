@@ -68,3 +68,17 @@ It is used consistently and can cover major part of your code. Higher no of cove
 
 # Integration Testing
 Integration Testing is next level of testing where individual units are combined and tested as a group. This is used to expose faults in the interaction among unit components. It occurs after unit testing.
+
+# Functional Testing
+Functional Testing is a type of black box testing where objective is to make sure that system is meeting all the functional requirements. In other words, it is a way of checking software to ensure that it has all the required functionality that is specified within its business rules ducument.
+
+# E2E Testing
+End to end testing is more about the actual flow through a system in a more realistic end user scenario. It is a technique used to examine if the flow of an application right from start to finish is behaving as expected. The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various system components and systems.
+
+# Test Runner v/s Test Environment v/s Test Suite
+A test runner is the tool or the library that picks set of unit test cases and a set of configuration settings then executes those test cases and write the result of execution in a log file. 
+Test environment is generally setup of softwares and hardware to execute test cases.
+A test suite is also known as 'validation suit', it is a collection of test cases that are intended to be used to test a software program to show that it has some specified set of behaviours.
+
+# Convention and Organization of tests
+
